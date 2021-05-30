@@ -191,7 +191,7 @@ As the very important data are sent to the central server from systems in rural 
 
 ### Wind Speed Sensing System  
 
-![Image](data/images/16.jpg)  
+![Image](docs/data/images/16.jpg)  
 
 ### Demonstrations  
 
