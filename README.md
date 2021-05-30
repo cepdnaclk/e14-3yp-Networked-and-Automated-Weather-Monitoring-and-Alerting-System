@@ -185,13 +185,13 @@ As the very important data are sent to the central server from systems in rural 
 
 ### Rainfall measuring System  
 
-![Image](docs/data/images/13.jpg | width=100)
-![Image](docs/data/images/14.jpg | width=100)
-![Image](docs/data/images/15.jpg | width=100)  
+![Image](docs/data/images/13.jpg)
+![Image](docs/data/images/14.jpg)
+![Image](docs/data/images/15.jpg)  
 
 ### Wind Speed Sensing System  
 
-![Image](docs/data/images/16.jpg | width=100)  
+![Image](docs/data/images/16.jpg)  
 
 ### Demonstrations  
 
