@@ -14,9 +14,9 @@ title: Networked and Automated Weather Monitoring and Alerting System
 ---
 
 ## Team
--  E/14/009, ADIKARI A.M.H.I., [e14009@eng.pdn.ac.lk](mailto:e14009@eng.pdn.ac.lk)
--  E/14/404, WITHANA S.S.P., [e14404@eng.pdn.ac.lk](mailto:e14404@eng.pdn.ac.lk)
--  E/14/410, DILSHAN I.D.H.I., [e14410@eng.pdn.ac.lk](mailto:e14410@eng.pdn.ac.lk)
+-  E/14/009, ADIKARI A.M.H.I., [e14009@ce.pdn.ac.lk](mailto:e14009@ce.pdn.ac.lk)
+-  E/14/404, WITHANA S.S.P., [e14404@ce.pdn.ac.lk](mailto:e14404@ce.pdn.ac.lk)
+-  E/14/410, DILSHAN I.D.H.I., [e14410@ce.pdn.ac.lk](mailto:e14410@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -209,7 +209,7 @@ As the very important data are sent to the central server from systems in rural 
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System" target = "_blank">Project Repository</a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
